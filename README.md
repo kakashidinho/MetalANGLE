@@ -1,4 +1,4 @@
-# MetalANGLE - OpenGL ES to Apple Metal API Translation Layer
+# MetalANGLE - Apple Metal API to OpenGL ES Translation Layer
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kakashidinho/metalangle?svg=true&branch=master)](https://ci.appveyor.com/project/kakashidinho/metalangle)
 [![Build Status](https://github.com/kakashidinho/metalangle/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/kakashidinho/metalangle/actions?query=branch%3Amaster)
